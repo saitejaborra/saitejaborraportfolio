@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saitejaborraportfolio/static/css/main.f4c2b71a.css",
+    "main.js": "/saitejaborraportfolio/static/js/main.8e869072.js",
+    "index.html": "/saitejaborraportfolio/index.html",
+    "main.f4c2b71a.css.map": "/saitejaborraportfolio/static/css/main.f4c2b71a.css.map",
+    "main.8e869072.js.map": "/saitejaborraportfolio/static/js/main.8e869072.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4c2b71a.css",
+    "static/js/main.8e869072.js"
+  ]
+}
